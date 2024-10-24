@@ -1,0 +1,268 @@
+{
+  "BaseUrl": "https://cloud.uipath.com/abhiskapuuyr/studio_",
+  "Snapshot": {
+    "Id": "11e20248-191f-41f3-8030-d6e76a9a124d",
+    "ExpressionLanguage": "VisualBasic",
+    "ProjectType": "Process",
+    "Name": "First Process",
+    "Description": "Blank Process",
+    "LastModifiedTime": "2024-10-23T09:25:25.8123765Z",
+    "CreationTime": "2024-10-23T09:25:25.8123765Z",
+    "UserId": "fb6b389d-7e8f-45bc-98f7-c00480aebd95",
+    "RootFolder": {
+      "Name": "11e20248-191f-41f3-8030-d6e76a9a124d",
+      "Folders": [
+        {
+          "Id": "5110a23b-d910-42f6-a88b-e3ddc89d3e9d",
+          "Name": ".tmh",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "5ead32e0-1917-443f-b4c5-eb5b9336def7",
+              "Name": "config.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "0a6f42e9-a8be-4a19-9ce0-16d4bbde5ca0",
+          "Name": ".objects",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "0c18a59c-7df7-4b49-836d-c8ca16bcb134",
+              "Name": ".type",
+              "IsMain": false
+            },
+            {
+              "Id": "1ba27a4d-7533-4897-badd-5e59f0dbb0ba",
+              "Name": ".metadata",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "f5e9d032-bb1a-4bc2-b75d-23fbce68c00c",
+          "Name": ".project",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "75fb6033-4eab-4b0a-a541-c77a956f527a",
+              "Name": "design.json",
+              "IsMain": false
+            },
+            {
+              "Id": "55cd398d-e5af-4157-a0e7-eaec26dff60b",
+              "Name": "PackageBindingsMetadata.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "8dd968e7-9299-461c-8a46-d59e12125618",
+          "Name": ".settings",
+          "Folders": [
+            {
+              "Id": "488db025-bb9d-41b5-8399-2b096af2ecf0",
+              "Name": "Debug",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "cac1c16d-e180-416b-a785-64f238d88259",
+                  "Name": "settings-1a5b880a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "70423ae8-1dbc-4ee0-b3fd-e346dcbe6e66",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "20730ea2-b4d1-4c33-8b31-36513847e17a",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "9468fec5-2882-47f4-80ae-81dbf775c76d",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "6ba1509d-972c-4a1b-904b-31cc2b03b07c",
+                  "Name": "settings-82ca306a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "a7ee4632-2f8c-445a-a4a6-50c3789ae561",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "aadb4da8-516a-4228-9219-e2fa37ce609c",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "77910676-dce6-40ef-b003-81b67b7bbc39",
+              "Name": "Release",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "c4478353-706f-423a-8faf-f37e86778d73",
+                  "Name": "settings-1a5b880a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "82ef87d6-78ae-4b9a-ad89-005530a85a3a",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "6fe0ade4-36d0-4379-8440-444dcad4378a",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "972a38fd-f740-47d3-ae7b-a239c3f00c84",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "aafe7c85-3826-4ace-9391-04e816df25af",
+                  "Name": "settings-82ca306a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "5a58a863-8af0-4037-ae0d-e56837902542",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "4249f698-c9a9-4abd-ae50-264a8b9aeec1",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "92a80fb7-2f89-4154-8c65-9885b9c189fb",
+              "Name": "Design",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "0724d783-a88a-47e0-9e13-d4c32fe373e2",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "29206497-386b-409c-8da4-389820524acc",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "86869113-83f2-4919-b1ea-37b297d45a29",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        }
+      ],
+      "Files": [
+        {
+          "Id": "ceda4840-0f65-43d8-a50e-c43e1c26ffeb",
+          "Name": "Main.xaml",
+          "IsMain": true
+        },
+        {
+          "Id": "0a318bd8-ae5c-41f5-a598-f7968e876d60",
+          "Name": "project.json",
+          "IsMain": false
+        }
+      ]
+    },
+    "Dependencies": [
+      {
+        "Name": "UiPath.Excel.Activities",
+        "Version": "[2.24.2]"
+      },
+      {
+        "Name": "UiPath.Mail.Activities",
+        "Version": "[1.23.11]"
+      },
+      {
+        "Name": "UiPath.System.Activities",
+        "Version": "[24.10.6]"
+      },
+      {
+        "Name": "UiPath.Testing.Activities",
+        "Version": "[24.10.3]"
+      },
+      {
+        "Name": "UiPath.UIAutomation.Activities",
+        "Version": "[24.10.6]"
+      }
+    ],
+    "HasTrigger": false,
+    "DisableAutoUpdate": false
+  },
+  "OriginalFilesHash": {
+    "Main.xaml": "hY+Bn/FA7AMg6N01VbQz4XGA9N7L3VGbrqTuRBEElK4=",
+    ".project/PackageBindingsMetadata.json": "fL0GRxVycJJ2GA9yPLLqa8z40+94Van0I46WaMPD4Jo=",
+    ".settings/Debug/settings-1a5b880a.json": "7LuMiqeAyudf1SiAtg+L/3TGzsMJkAoNJ7g6yi2hqOg=",
+    ".settings/Release/settings-590bb27b.json": "4fvUURCKkxFSSIwu1y1AoZuELH2J5tuzSfwKYQ+/qxo=",
+    ".settings/Debug/settings-9e9290da.json": "7PjBQcYPpDS7UhN/HydlT7QCRIsBYnPNtHuFFBOcfg8=",
+    ".tmh/config.json": "Tk6QDUUsqtifkyIEMEjvqL300ZUpxaIp15qlWlZ+18w=",
+    "project.json": "oapShodASxJqI2JY0TH8PBIue5bYF3J6OMmtLqww8Fg=",
+    ".settings/Design/settings-afad0842.json": "jjBbv/WXwDPEhGnbSVQxlI3fuMaxR42abIF+4Qju1ok=",
+    ".settings/Release/settings-82ca306a.json": "wW7p8opAxgjsb/RDAO397wAnWiGTiw2bTYZH58LTpCI=",
+    ".settings/Release/settings-a1b2dac1.json": "ScP094N6QHDi94aEPDjZbM/h+gLiQWa4BB36InH23Gw=",
+    ".settings/Debug/settings-5190454b.json": "9dTmYrtHO5uIu22mdu0GX2x5y/DCUKnNBY94nZK1SXw=",
+    ".settings/Release/settings-5190454b.json": "9dTmYrtHO5uIu22mdu0GX2x5y/DCUKnNBY94nZK1SXw=",
+    ".settings/Design/settings-a1b2dac1.json": "S+oLBWsMNfOYhcm2i34gLFLOCMU9m8WoKRA4Pk73XgA=",
+    ".settings/Design/settings-5190454b.json": "R8KMXeb6aoFhT/ZIUo1Ju8IME0pdk4z0CdfLSKo011s=",
+    ".settings/Debug/settings-82ca306a.json": "wW7p8opAxgjsb/RDAO397wAnWiGTiw2bTYZH58LTpCI=",
+    ".settings/Debug/settings-afad0842.json": "o6cyP0e4lygMz+a1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    ".settings/Debug/settings-590bb27b.json": "4fvUURCKkxFSSIwu1y1AoZuELH2J5tuzSfwKYQ+/qxo=",
+    ".settings/Release/settings-9e9290da.json": "7PjBQcYPpDS7UhN/HydlT7QCRIsBYnPNtHuFFBOcfg8=",
+    ".objects/.metadata": "1G4jV8jWiGQ2CITmoUs1dM33u5bQlKF66ZGcGfeKbwU=",
+    ".settings/Debug/settings-a1b2dac1.json": "ScP094N6QHDi94aEPDjZbM/h+gLiQWa4BB36InH23Gw=",
+    ".settings/Release/settings-afad0842.json": "o6cyP0e4lygMz+a1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    ".settings/Release/settings-1a5b880a.json": "7LuMiqeAyudf1SiAtg+L/3TGzsMJkAoNJ7g6yi2hqOg=",
+    ".project/design.json": "tpigGYm5XaG029JmRVNbleDrxKui0uJxWXFRRvAf2I4=",
+    ".objects/.type": "3CCz1dLN34L60zKCHKXppO/c7eSic6oZPStJW9zJKCU="
+  },
+  "StudioWebFiles": [
+    "Main.xaml",
+    "project.json",
+    ".objects/.metadata",
+    ".objects/.type",
+    ".project/design.json",
+    ".project/PackageBindingsMetadata.json",
+    ".settings/Debug/settings-1a5b880a.json",
+    ".settings/Debug/settings-5190454b.json",
+    ".settings/Debug/settings-590bb27b.json",
+    ".settings/Debug/settings-82ca306a.json",
+    ".settings/Debug/settings-9e9290da.json",
+    ".settings/Debug/settings-a1b2dac1.json",
+    ".settings/Debug/settings-afad0842.json",
+    ".settings/Design/settings-5190454b.json",
+    ".settings/Design/settings-a1b2dac1.json",
+    ".settings/Design/settings-afad0842.json",
+    ".settings/Release/settings-1a5b880a.json",
+    ".settings/Release/settings-5190454b.json",
+    ".settings/Release/settings-590bb27b.json",
+    ".settings/Release/settings-82ca306a.json",
+    ".settings/Release/settings-9e9290da.json",
+    ".settings/Release/settings-a1b2dac1.json",
+    ".settings/Release/settings-afad0842.json",
+    ".tmh/config.json"
+  ],
+  "LocalProjectPath": "C:\\Users\\ubuntu\\Documents\\UiPath\\First Process",
+  "ProjectId": "11e20248-191f-41f3-8030-d6e76a9a124d",
+  "ProjectName": "First Process"
+}
